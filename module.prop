@@ -1,7 +1,7 @@
-id=systemless-hosts-KernelSU-module
+id=systemless-hosts-apatch-module
 name=systemless hosts apatch module
-version=v1.1.4
-versionCode=010104
+version=v1
+versionCode=100
 author=Mehrab Mahmud
 description=Required module to use applications such as AdAway on APatch
 updateJson=https://raw.githubusercontent.com/rimehrab/systemless-hosts-apatch-module/main/update.json
