@@ -1,6 +1,6 @@
 {
-  "version": "v1",
-  "versionCode": "100",
+  "version": "v1.1",
+  "versionCode": "101",
   "zipUrl": "https://github.com/rimehrab/systemless-hosts-apatch-module/releases/latest/download/systemless-hosts-KernelSU-module.zip",
   "changelog": "https://raw.githubusercontent.com/rimehrab/systemless-hosts-apatch-module/main/CHANGELOG.md"
 }
