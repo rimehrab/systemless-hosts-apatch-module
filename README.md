@@ -14,6 +14,6 @@ Required module to use applications such as AdAway on APatch
 - Always you can try [Yervant7's ZygiskNext](https://github.com/Yervant7/ZygiskNext) instead of [Dr-TSNG's ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) for both KernelSU and APatch
 
 ## Thanks
-- Folked from: [Ali Beyaz](https://github.com/symbuzzer)
+- Forked from: [Ali Beyaz](https://github.com/symbuzzer)
 - Original code and idea: [HuskyDG](https://github.com/HuskyDG)
 - For his support: [tiann](https://github.com/tiann)
