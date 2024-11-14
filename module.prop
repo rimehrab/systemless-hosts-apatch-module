@@ -2,6 +2,6 @@ id=systemless-hosts-apatch-module
 name=systemless hosts apatch module
 version=v1.1
 versionCode=101
-author=Mehrab Mahmud
+author=Mehrab Mahmud Udoy
 description=Required module to use applications such as AdAway on APatch
 updateJson=https://raw.githubusercontent.com/rimehrab/systemless-hosts-apatch-module/main/update.json
